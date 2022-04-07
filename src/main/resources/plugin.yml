@@ -1,0 +1,7 @@
+name: TestReact
+version: 1.0.0
+main: tsp.react.test.TestPlugin
+
+commands:
+  testreact:
+    usage: /testreact
